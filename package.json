@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "main": "ihhk.js",
+  "private": false,
+  "scripts": {
+    "start": "node ihhk.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
